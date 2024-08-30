@@ -1,0 +1,45 @@
+.icon-sm{
+  font-size: 2rem;
+}
+
+.image-lg{
+  width: 9rem;
+  height: 9rem;
+  object-fit: cover;
+}
+
+.fa-heart{
+  font-size: 1.5rem;
+}
+
+.xsmall{
+  font-size: 0.65rem;
+}
+
+.icon-lg{
+  font-size:9rem;
+}
+
+.avatar-lg{
+  width: 9rem;
+  height: 9rem;
+  object-fit: cover;
+}
+.avatar-sm{
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+}
+.avatar-md{
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+}
+.icon-md{
+  font-size: 4rem;
+}
+.avatar-md{
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+}
